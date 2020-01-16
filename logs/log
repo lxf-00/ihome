@@ -1,17 +1,469 @@
-INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-INFO _internal.py:87  * Restarting with stat
-WARNING _internal.py:87  * Debugger is active!
-INFO _internal.py:87  * Debugger PIN: 116-590-485
 ERROR demo.py:13 error msg
 WARNING demo.py:14 warn msg
-INFO demo.py:15 info msg
-DEBUG demo.py:16 debug msg
-INFO _internal.py:87 127.0.0.1 - - [12/Jan/2020 14:42:53] "GET /api/v1.0/index HTTP/1.1" 200 -
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:14 error msg
+WARNING demo.py:15 warn msg
+INFO demo.py:16 info msg
+DEBUG demo.py:17 debug msg
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
 INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO _internal.py:87  * Restarting with stat
 WARNING _internal.py:87  * Debugger is active!
 INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [14/Jan/2020 19:52:27] "GET / HTTP/1.1" 404 -
 INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [14/Jan/2020 19:56:51] "GET /search.html?aid=&aname=&sd=&ed= HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [14/Jan/2020 19:57:44] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [14/Jan/2020 19:57:44] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/images/home01.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/js/template.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/images/home02.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:46] "GET /static/images/home03.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:47] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:47] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:06:47] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:21] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:35] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:35] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:08:35] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/commons.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/commons.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:17:44] "GET / HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 10:17:45] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/web_html.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/web_html.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/web_html.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/web_html.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/web_html.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 11:03:53] "GET / HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 11:03:53] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/__init__.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/__init__.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:35:50] "GET /Api/v1.0/image_code/abc HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:07] "GET /Api/v1.0/image_code/123 HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:20] "GET /Api/v1.0/image_code/ HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:36:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:39:09] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:39:09] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:39:09] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:39:09] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:39:09] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:39:09] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:41] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:42] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:42] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:45] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:45] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:45] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:45] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:45] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:42:45] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:43:46] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:43:46] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:43:46] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:43:46] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:43:46] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:43:46] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:07] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:07] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:07] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:07] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:08] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:08] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:47] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:47] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:47] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:47] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:47] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:47:47] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:56:03] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:56:03] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:56:03] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:56:03] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:56:03] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 15:56:03] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:36:15] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:36:15] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:36:15] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:36:15] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:36:16] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:36:16] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:46:19] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:46:19] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:46:19] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:46:19] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:46:19] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:46:19] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:01] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:01] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:01] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:01] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:01] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:02] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:04] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:04] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:04] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:04] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:04] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:04] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:06] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:06] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:06] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:06] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:06] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:06] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:55] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:55] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:55] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:55] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:55] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:47:55] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:29] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:29] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:29] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:29] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:29] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:29] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:40] "GET /api/v1.0/image_code/123 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:40] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:40] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:40] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:48:41] "GET /api/v1.0/image_code/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:50:19] "GET /api/v1.0/image_code/abc?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:48 'StrictRedis' object is not callable
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:53:29] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+ERROR verify_code.py:48 'StrictRedis' object is not callable
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:53:42] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:48 'StrictRedis' object is not callable
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:57:50] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+ERROR verify_code.py:48 'StrictRedis' object is not callable
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 16:57:52] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:48 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:03:08] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+ERROR verify_code.py:48 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:03:10] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:48 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:04:36] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+ERROR verify_code.py:48 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:04:37] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:51 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:06:29] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:51 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:07:34] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:51 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:08:46] "GET /api/v1.0/image_code/123 HTTP/1.1" 200 -
+ERROR verify_code.py:51 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:11:43] "GET /api/v1.0/image_code/ghd HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:51 value is not an integer or out of range
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:12:38] "GET /api/v1.0/image_code/ghd HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+ERROR verify_code.py:51 'StrictRedis' object has no attribute 'setx'
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:13:23] "GET /api/v1.0/image_code/ghd HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:14:01] "GET /api/v1.0/image_code/ghd HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 17:23:11] "GET /register HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:15:50] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET / HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:47] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:16:54] "GET /register HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /api/v1.0/image_code/6b45a390-3ad3-425c-a49f-5ee4d0029231 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [15/Jan/2020 18:18:37] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:43] "GET / HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/images/home01.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/images/home02.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/images/home03.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:44] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:47] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:47] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:47] "GET /static/js/ihome/register.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:48] "GET /api/v1.0/image_code/9a44ae5d-9beb-4a99-8ac4-a365bae76f0b HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:49] "GET /api/v1.0/image_code/1752e51f-877b-4eff-892d-632f450d935b HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:50] "GET /api/v1.0/image_code/534cf3a3-d278-4600-b306-c7c8470f1374 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:50] "GET /api/v1.0/image_code/6da9da52-f30e-4aff-9d5b-2da5c951b49c HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:50] "GET /api/v1.0/image_code/4236a023-420c-4208-863c-f063ab988649 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:51] "GET /api/v1.0/image_code/aedee022-284a-4fd7-8723-57d4b7446c86 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:51] "GET /api/v1.0/image_code/3efc4879-80e1-4e16-a79c-a1106d198aae HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 18:08:51] "GET /api/v1.0/image_code/c853afcb-cc36-4edd-be43-fd4138a0a797 HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 116-590-485
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 19:29:23] "GET /api/v1.0/image_code/59b62c52-e027-47a3-9313-2505ee392f42 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 19:29:25] "GET /api/v1.0/image_code/287d9dfe-1807-4e15-b9ac-c2bd6b38cb82 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 19:29:27] "GET /api/v1.0/image_code/7e979309-2076-43b5-9244-97f58954c6df HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [16/Jan/2020 19:29:29] "GET /api/v1.0/image_code/ea8d893b-0720-4c27-8241-34b6a1b6d063 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/lxf/Documents/github/ihome/ihome_db/utils/captcha/__init__.py', reloading
 INFO _internal.py:87  * Restarting with stat
 WARNING _internal.py:87  * Debugger is active!
 INFO _internal.py:87  * Debugger PIN: 116-590-485

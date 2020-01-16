@@ -1,4 +1,4 @@
-# ihome
+# ihome（前后端分离）
 
 Renting house on mobile phone project based on flask 
 
@@ -28,6 +28,23 @@ Renting house on mobile phone project based on flask
         - redis;
         - 蓝图和相应的包创建；
         - 数据库的迁移；
-## 模型类和数据库创建
+## 模型类，数据库创建与迁移
 - 基本数据表的分析（start uml 保存文件）
+- python manage.py db init(首次运行)； python manage.py db migrate -m "说明"（迁移）； python manage.py upgrade(升级)；
+- models 数据库的完善;
+
+## 提供静态文件
+- 使用flask 提供静态文件；
+- 新建蓝图--> 自定义正则转换器(BaseConverter,注册，使用)；
+
+## CSRF 防护: 静态路由中添加生成csrf_token
+- flask_wtf.csrf.generate_csrf(),生成一个csrf_token 的值；
+- 设置cookies(make_response)
+- 返回response
+
+## 图片验证码
+- 后端接口的实现(接口文档，RESTful)
+- 前段功能的实现
+
+## 短信验证码
 - 

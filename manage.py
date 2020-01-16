@@ -6,6 +6,7 @@ from flask_migrate import Migrate, MigrateCommand
 
 # 创建flask 的应用对象
 app = create_app("develop")
+
 manager = Manager(app)
 Migrate(app, db)
 manager.add_command("db", MigrateCommand)
